@@ -1,2 +1,3 @@
+# Ignore old OS-specific scripts (merged into ScanCCFonts.jsx)
 ScanCCFonts_Mac.jsx
 ScanCCFonts_Windows.jsx
