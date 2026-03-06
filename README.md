@@ -49,6 +49,8 @@ It cross-references this manifest with Illustrator's active `app.textFonts` obje
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
+<div align="center">
+
 **Built with ❤️ by [tandukuda](https://github.com/tandukuda)**
 
 [⭐ Star this repo](https://github.com/tandukuda/sceneshift) • [☕ Ko-Fi](https://ko-fi.com/tandukuda)
