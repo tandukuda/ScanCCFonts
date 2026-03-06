@@ -15,7 +15,7 @@ This script scans your local Creative Cloud font cache and generates a "dummy" I
 
 ## Installation
 
-To make the script easily accessible, place the `ScanCCFonts.jsx` file into your Illustrator scripts folder.
+To make the script easily accessible, place the [ScanCCFonts.jsx](https://github.com/tandukuda/ScanCCFonts/blob/main/ScanCCFonts.jsx) file into your Illustrator scripts folder.
 
 ### Windows
 Copy `ScanCCFonts.jsx` to:
