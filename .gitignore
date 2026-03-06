@@ -1,3 +1,6 @@
-# Ignore old OS-specific scripts (merged into ScanCCFonts.jsx)
+# Ignore old OS-specific scripts
 ScanCCFonts_Mac.jsx
 ScanCCFonts_Windows.jsx
+
+# Ignore Illustrator files
+*.ai
